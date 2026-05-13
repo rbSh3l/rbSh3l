@@ -3,6 +3,7 @@
 * 😄 **Name:** Raeon Bryan
 * 🛡️ **Focus:** Cybersecurity, SOC Analysis, DevSecOps, Cloud Security, and Secure Software Engineering
 * 🎓 **Education:** M.S. Cybersecurity & Information Assurance — WGU
+* 💼 **Experience:** Eight (8) years of experience in IT/Cybersecurity
 * 🏅 **Certifications:** CompTIA CySA+ | ISC2 Certified in Cybersecurity
 * 🔍 **Interests:** Threat Hunting, SIEM Monitoring, Linux, Python Automation, Cloud Security, and Security Engineering
 * 🚀 **Goal:** Building secure systems, automating defenses, and growing into a DevSecOps / Security Engineer role
