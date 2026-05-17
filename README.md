@@ -101,10 +101,6 @@
 # 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rbSh3l&theme=radical"/>
-</p>
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rbSh3l&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rbSh3l&theme=radical)
