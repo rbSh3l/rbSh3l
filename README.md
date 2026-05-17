@@ -100,11 +100,15 @@
 
 # 📊 GitHub Stats
 
-![Raeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbSh3l&show_icons=true&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbSh3l&layout=compact&theme=radical"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME\&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rbSh3l&theme=radical"/>
+</p>
 
 ---
 
