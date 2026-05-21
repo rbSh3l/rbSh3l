@@ -20,14 +20,14 @@
 
 | Project | Description |
 |---|---|
-| ![Splunk SOC Lab](https://rbsh3l.github.io/SOC_LAB/soclab.html) | Detection engineering, threat hunting, IOC investigations |
-| ![Detection Reports](https://github.com/rbSh3l/SOC_LAB/tree/main/reports) | MITRE ATT&CK mapped investigations |
-| ![SOC Screenshots](https://github.com/rbSh3l/SOC_LAB/tree/main/screenshots) | Splunk dashboards & detections |
-| ![SIEM](https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge) | Splunk Enterprise · Log Analysis · Event Correlation |
-| ![Threat Hunting](https://img.shields.io/badge/THREAT_HUNTING-8A2BE2?style=for-the-badge) | IOC enrichment · adversary behavior analysis · ATT&CK hunting |
-| ![Incident Response](https://img.shields.io/badge/INCIDENT_RESPONSE-FF0000?style=for-the-badge) | Brute-force investigations · PowerShell malware analysis |
-| ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-8B0000?style=for-the-badge) | T1059.001 · T1027 · T1105 · T1140 |
-| ![NIST](https://img.shields.io/badge/NIST-003366?style=for-the-badge) | Detection lifecycle · incident handling workflows |
+| [Splunk SOC Lab](https://rbsh3l.github.io/SOC_LAB/soclab.html) | Detection engineering, threat hunting, IOC investigations |
+| [Detection Reports](https://github.com/rbSh3l/SOC_LAB/tree/main/reports) | MITRE ATT&CK mapped investigations |
+| [SOC Screenshots](https://github.com/rbSh3l/SOC_LAB/tree/main/screenshots) | Splunk dashboards & detections |
+| ![SIEM](https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=splunk&logoColor=white) | Splunk Enterprise · Log Analysis · Event Correlation |
+| ![ThreatHunting](https://img.shields.io/badge/THREAT_HUNTING-8A2BE2?style=for-the-badge&logo=target&logoColor=white) | IOC enrichment · adversary behavior analysis · ATT&CK hunting |
+| ![IncidentResponse](https://img.shields.io/badge/INCIDENT_RESPONSE-FF0000?style=for-the-badge&logo=probot&logoColor=white) | Brute-force investigations · PowerShell malware analysis |
+| ![MITREATTACK](https://img.shields.io/badge/MITRE_ATT%26CK-8B0000?style=for-the-badge&logo=redhat&logoColor=white) | T1059.001 · T1027 · T1105 · T1140 |
+| ![NIST](https://img.shields.io/badge/NIST-003366?style=for-the-badge&logo=datadog&logoColor=white) | Detection lifecycle · incident handling workflows |
 
 ---
 
