@@ -16,9 +16,13 @@
 
 # 🛠️ My Skillset
 
-## 🧠 Cybersecurity & SOC
+## 🛡️ Cybersecurity & SOC
 
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+| Project | Description |
+|---|---|
+| [🔍 Splunk SOC Lab](https://rbsh3l.github.io/SOC_LAB/soclab.html) | Detection engineering, threat hunting, IOC investigations |
+| [📑 Detection Reports](https://github.com/rbSh3l/SOC_LAB/tree/main/reports) | MITRE ATT&CK mapped investigations |
+| [📸 SOC Screenshots](https://github.com/rbSh3l/SOC_LAB/tree/main/screenshots) | Splunk dashboards & detections |
 ![SIEM](https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge)
 ![Threat Hunting](https://img.shields.io/badge/THREAT%20HUNTING-8A2BE2?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-FF0000?style=for-the-badge)
