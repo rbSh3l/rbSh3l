@@ -94,6 +94,12 @@
 * Practiced least privilege, access control, and secure cloud configuration
 * Tools: AWS, Azure, IAM, CloudTrail / Monitor
 
+## 🐳 Docker & DevSecOps
+
+* Built a Docker-based DevSecOps CI/CD pipeline using GitHub Actions.
+* Automated secret scanning (Gitleaks), SAST analysis (Semgrep), and container vulnerability scanning (Trivy).
+* Implemented security testing on every push and pull request.
+
 ## 🐧 Linux Security Lab
 
 * Practiced Linux administration, file permissions, users/groups, systemd, logs, and hardening basics
